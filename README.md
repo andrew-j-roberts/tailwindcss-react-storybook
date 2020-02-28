@@ -8,10 +8,8 @@ There's a similar starter [here](https://github.com/audunru/tailwind-storybook) 
 
 ```bash
 git clone https://github.com/andrew-j-roberts/tailwind-react-storybook.git
-
 cd tailwind-react-storybook
-
-yarn install
+npm i
 ```
 
 ## Running Storybook
@@ -19,7 +17,3 @@ yarn install
 ```bash
 npm run storybook
 ```
-
-## Customizing Tailwind CSS
-
-Take a look at [tailwind.config.js](tailwind.config.js).
