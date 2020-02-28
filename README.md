@@ -1,4 +1,4 @@
-# tailwind-react-storybook
+# tailwindcss-react-storybook
 
 This is a starter for [Tailwind CSS](https://tailwindcss.com/) and [Storybook](https://storybook.js.org/) with [React](https://reactjs.org/) components.
 
@@ -8,7 +8,7 @@ There's a similar starter [here](https://github.com/audunru/tailwind-storybook) 
 
 ```bash
 git clone https://github.com/andrew-j-roberts/tailwind-react-storybook.git
-cd tailwind-react-storybook
+cd tailwindcss-react-storybook
 npm i
 ```
 
